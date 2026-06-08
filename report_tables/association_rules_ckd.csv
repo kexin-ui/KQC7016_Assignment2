@@ -1,0 +1,453 @@
+antecedent,consequent,support,confidence,lift
+htn=1,class=ckd,0.39,1.0,1.5625
+htn=1 AND pot=< 7.31,class=ckd,0.38,1.0,1.5625
+ba=0 AND htn=1,class=ckd,0.36,1.0,1.5625
+dm=1,class=ckd,0.35,1.0,1.5625
+dm=1 AND pot=< 7.31,class=ckd,0.345,1.0,1.5625
+ba=0 AND dm=1,class=ckd,0.325,1.0,1.5625
+htn=1 AND pcc=0,class=ckd,0.3,1.0,1.5625
+htn=1 AND rbc=0,class=ckd,0.3,1.0,1.5625
+cad=0 AND htn=1,class=ckd,0.295,1.0,1.5625
+dm=1 AND rbc=0,class=ckd,0.285,1.0,1.5625
+htn=1 AND su=< 0,class=ckd,0.285,1.0,1.5625
+dm=1 AND htn=1,class=ckd,0.28,1.0,1.5625
+ane=0 AND htn=1,class=ckd,0.275,1.0,1.5625
+cad=0 AND dm=1,class=ckd,0.27,1.0,1.5625
+dm=1 AND pcc=0,class=ckd,0.27,1.0,1.5625
+htn=1 AND pe=0,class=ckd,0.27,1.0,1.5625
+appet=0 AND htn=1,class=ckd,0.26,1.0,1.5625
+ane=0 AND dm=1,class=ckd,0.255,1.0,1.5625
+dm=1 AND pe=0,class=ckd,0.24,1.0,1.5625
+htn=1 AND pc=0,class=ckd,0.235,1.0,1.5625
+bp limit=2,class=ckd,0.23,1.0,1.5625
+appet=0 AND dm=1,class=ckd,0.23,1.0,1.5625
+bp (Diastolic)=1 AND bp limit=2,class=ckd,0.23,1.0,1.5625
+bp (Diastolic)=1 AND htn=1,class=ckd,0.23,1.0,1.5625
+dm=1 AND sc=< 3.65,class=ckd,0.23,1.0,1.5625
+pc=1,class=ckd,0.225,1.0,1.5625
+sg=1.009 - 1.011,class=ckd,0.225,1.0,1.5625
+bp limit=2 AND pot=< 7.31,class=ckd,0.225,1.0,1.5625
+dm=1 AND pc=0,class=ckd,0.225,1.0,1.5625
+htn=1 AND sc=< 3.65,class=ckd,0.225,1.0,1.5625
+dm=1 AND su=< 0,class=ckd,0.22,1.0,1.5625
+pot=< 7.31 AND sg=1.009 - 1.011,class=ckd,0.215,1.0,1.5625
+pc=1 AND pot=< 7.31,class=ckd,0.21,1.0,1.5625
+bp limit=2 AND cad=0,class=ckd,0.205,1.0,1.5625
+appet=1,class=ckd,0.2,1.0,1.5625
+appet=1 AND pot=< 7.31,class=ckd,0.195,1.0,1.5625
+ba=0 AND sg=1.009 - 1.011,class=ckd,0.195,1.0,1.5625
+htn=1 AND sod=133 - 138,class=ckd,0.195,1.0,1.5625
+ba=0 AND bp limit=2,class=ckd,0.19,1.0,1.5625
+bp (Diastolic)=1 AND dm=1,class=ckd,0.19,1.0,1.5625
+cad=0 AND sg=1.009 - 1.011,class=ckd,0.19,1.0,1.5625
+cad=0 AND pc=1,class=ckd,0.185,1.0,1.5625
+dm=1 AND sod=133 - 138,class=ckd,0.185,1.0,1.5625
+sg=1.015 - 1.017,class=ckd,0.18,1.0,1.5625
+ane=0 AND sg=1.009 - 1.011,class=ckd,0.18,1.0,1.5625
+ba=0 AND pc=1,class=ckd,0.18,1.0,1.5625
+rbc=0 AND sg=1.009 - 1.011,class=ckd,0.18,1.0,1.5625
+pe=1,class=ckd,0.175,1.0,1.5625
+appet=1 AND ba=0,class=ckd,0.175,1.0,1.5625
+bp limit=2 AND pcc=0,class=ckd,0.175,1.0,1.5625
+bp limit=2 AND pe=0,class=ckd,0.175,1.0,1.5625
+dm=1 AND rbcc=4.46 - 5.05,class=ckd,0.175,1.0,1.5625
+dm=1 AND wbcc=7360 - 9740,class=ckd,0.175,1.0,1.5625
+pe=0 AND sg=1.009 - 1.011,class=ckd,0.175,1.0,1.5625
+pot=< 7.31 AND sg=1.015 - 1.017,class=ckd,0.175,1.0,1.5625
+appet=0 AND sg=1.009 - 1.011,class=ckd,0.17,1.0,1.5625
+bp limit=0 AND htn=1,class=ckd,0.17,1.0,1.5625
+htn=1 AND wbcc=7360 - 9740,class=ckd,0.17,1.0,1.5625
+pc=1 AND su=< 0,class=ckd,0.17,1.0,1.5625
+pcc=0 AND sg=1.009 - 1.011,class=ckd,0.17,1.0,1.5625
+sc=< 3.65 AND sg=1.009 - 1.011,class=ckd,0.17,1.0,1.5625
+bp limit=0 AND dm=1,class=ckd,0.165,1.0,1.5625
+bp limit=2 AND su=< 0,class=ckd,0.165,1.0,1.5625
+htn=1 AND rbcc=4.46 - 5.05,class=ckd,0.165,1.0,1.5625
+pe=1 AND pot=< 7.31,class=ckd,0.165,1.0,1.5625
+ane=1,class=ckd,0.16,1.0,1.5625
+appet=1 AND cad=0,class=ckd,0.16,1.0,1.5625
+appet=1 AND su=< 0,class=ckd,0.16,1.0,1.5625
+ba=0 AND pe=1,class=ckd,0.16,1.0,1.5625
+ba=0 AND sg=1.015 - 1.017,class=ckd,0.16,1.0,1.5625
+bp (Diastolic)=0 AND dm=1,class=ckd,0.16,1.0,1.5625
+bp (Diastolic)=0 AND htn=1,class=ckd,0.16,1.0,1.5625
+sg=1.009 - 1.011 AND su=< 0,class=ckd,0.16,1.0,1.5625
+htn=1 AND pc=1,class=ckd,0.155,1.0,1.5625
+ane=1 AND pot=< 7.31,class=ckd,0.15,1.0,1.5625
+appet=1 AND rbc=0,class=ckd,0.15,1.0,1.5625
+bp limit=2 AND rbc=0,class=ckd,0.15,1.0,1.5625
+ane=1 AND ba=0,class=ckd,0.145,1.0,1.5625
+appet=1 AND pcc=0,class=ckd,0.145,1.0,1.5625
+bp limit=2 AND htn=1,class=ckd,0.145,1.0,1.5625
+bp limit=2 AND sc=< 3.65,class=ckd,0.145,1.0,1.5625
+cad=0 AND sg=1.015 - 1.017,class=ckd,0.145,1.0,1.5625
+pc=1 AND rbc=0,class=ckd,0.145,1.0,1.5625
+sg=1.009 - 1.011 AND sod=133 - 138,class=ckd,0.145,1.0,1.5625
+hemo=10 - 11.3,class=ckd,0.14,1.0,1.5625
+age=59 - 66 AND htn=1,class=ckd,0.14,1.0,1.5625
+appet=0 AND bp limit=2,class=ckd,0.14,1.0,1.5625
+bp (Diastolic)=1 AND pc=1,class=ckd,0.14,1.0,1.5625
+bu=48.1 - 86.2 AND htn=1,class=ckd,0.14,1.0,1.5625
+hemo=10 - 11.3 AND pot=< 7.31,class=ckd,0.14,1.0,1.5625
+pc=0 AND sg=1.009 - 1.011,class=ckd,0.14,1.0,1.5625
+pcc=0 AND pe=1,class=ckd,0.14,1.0,1.5625
+rbc=0 AND sg=1.015 - 1.017,class=ckd,0.14,1.0,1.5625
+al=2 - 2,class=ckd,0.135,1.0,1.5625
+pcc=1,class=ckd,0.135,1.0,1.5625
+al=2 - 2 AND pot=< 7.31,class=ckd,0.135,1.0,1.5625
+ane=0 AND bp limit=2,class=ckd,0.135,1.0,1.5625
+cad=0 AND pe=1,class=ckd,0.135,1.0,1.5625
+pcc=1 AND pot=< 7.31,class=ckd,0.135,1.0,1.5625
+pe=1 AND su=< 0,class=ckd,0.135,1.0,1.5625
+ane=0 AND appet=1,class=ckd,0.13,1.0,1.5625
+ane=0 AND pc=1,class=ckd,0.13,1.0,1.5625
+ane=0 AND sg=1.015 - 1.017,class=ckd,0.13,1.0,1.5625
+ane=1 AND cad=0,class=ckd,0.13,1.0,1.5625
+ane=1 AND su=< 0,class=ckd,0.13,1.0,1.5625
+appet=1 AND bp (Diastolic)=1,class=ckd,0.13,1.0,1.5625
+appet=1 AND htn=1,class=ckd,0.13,1.0,1.5625
+ba=0 AND hemo=10 - 11.3,class=ckd,0.13,1.0,1.5625
+htn=1 AND sg=1.019 - 1.021,class=ckd,0.13,1.0,1.5625
+pc=1 AND pe=0,class=ckd,0.13,1.0,1.5625
+rbc=1,class=ckd,0.125,1.0,1.5625
+age=59 - 66 AND dm=1,class=ckd,0.125,1.0,1.5625
+ane=0 AND hemo=10 - 11.3,class=ckd,0.125,1.0,1.5625
+appet=1 AND sc=< 3.65,class=ckd,0.125,1.0,1.5625
+bp limit=0 AND sg=1.009 - 1.011,class=ckd,0.125,1.0,1.5625
+dm=1 AND pc=1,class=ckd,0.125,1.0,1.5625
+pcc=0 AND sg=1.015 - 1.017,class=ckd,0.125,1.0,1.5625
+pe=1 AND rbc=0,class=ckd,0.125,1.0,1.5625
+pot=< 7.31 AND rbc=1,class=ckd,0.125,1.0,1.5625
+sg=1.015 - 1.017 AND su=< 0,class=ckd,0.125,1.0,1.5625
+al=< 0 AND dm=1,class=ckd,0.12,1.0,1.5625
+appet=1 AND dm=1,class=ckd,0.12,1.0,1.5625
+bp (Diastolic)=0 AND sg=1.009 - 1.011,class=ckd,0.12,1.0,1.5625
+bp (Diastolic)=1 AND sg=1.015 - 1.017,class=ckd,0.12,1.0,1.5625
+bp limit=2 AND dm=1,class=ckd,0.12,1.0,1.5625
+bp limit=2 AND pc=0,class=ckd,0.12,1.0,1.5625
+bp limit=2 AND rbcc=4.46 - 5.05,class=ckd,0.12,1.0,1.5625
+bu=48.1 - 86.2 AND dm=1,class=ckd,0.12,1.0,1.5625
+hemo=10 - 11.3 AND rbc=0,class=ckd,0.12,1.0,1.5625
+htn=1 AND pe=1,class=ckd,0.12,1.0,1.5625
+htn=1 AND sg=1.015 - 1.017,class=ckd,0.12,1.0,1.5625
+pc=1 AND pcc=0,class=ckd,0.12,1.0,1.5625
+pe=0 AND sg=1.015 - 1.017,class=ckd,0.12,1.0,1.5625
+rbcc=4.46 - 5.05 AND sg=1.009 - 1.011,class=ckd,0.12,1.0,1.5625
+al=3 - 3,class=ckd,0.115,1.0,1.5625
+hemo=8.7 - 10,class=ckd,0.115,1.0,1.5625
+pcv=33.5 - 37.4,class=ckd,0.115,1.0,1.5625
+al=2 - 2 AND ba=0,class=ckd,0.115,1.0,1.5625
+al=< 0 AND htn=1,class=ckd,0.115,1.0,1.5625
+ane=1 AND htn=1,class=ckd,0.115,1.0,1.5625
+ane=1 AND rbc=0,class=ckd,0.115,1.0,1.5625
+appet=0 AND pc=1,class=ckd,0.115,1.0,1.5625
+appet=0 AND sg=1.015 - 1.017,class=ckd,0.115,1.0,1.5625
+bgr=112 - 154 AND htn=1,class=ckd,0.115,1.0,1.5625
+bu=< 48.1 AND dm=1,class=ckd,0.115,1.0,1.5625
+dm=1 AND sg=1.009 - 1.011,class=ckd,0.115,1.0,1.5625
+dm=1 AND sg=1.019 - 1.021,class=ckd,0.115,1.0,1.5625
+hemo=8.7 - 10 AND pot=< 7.31,class=ckd,0.115,1.0,1.5625
+htn=1 AND sg=1.009 - 1.011,class=ckd,0.115,1.0,1.5625
+pc=1 AND sc=< 3.65,class=ckd,0.115,1.0,1.5625
+pcc=1 AND rbc=0,class=ckd,0.115,1.0,1.5625
+pcv=33.5 - 37.4 AND pot=< 7.31,class=ckd,0.115,1.0,1.5625
+sc=< 3.65 AND sg=1.015 - 1.017,class=ckd,0.115,1.0,1.5625
+cad=1,class=ckd,0.11,1.0,1.5625
+pcv=29.6 - 33.5,class=ckd,0.11,1.0,1.5625
+sc=3.65 - 6.8,class=ckd,0.11,1.0,1.5625
+al=2 - 2 AND cad=0,class=ckd,0.11,1.0,1.5625
+al=3 - 3 AND pot=< 7.31,class=ckd,0.11,1.0,1.5625
+ane=1 AND bp (Diastolic)=1,class=ckd,0.11,1.0,1.5625
+appet=1 AND pc=1,class=ckd,0.11,1.0,1.5625
+ba=0 AND pcc=1,class=ckd,0.11,1.0,1.5625
+ba=0 AND pcv=33.5 - 37.4,class=ckd,0.11,1.0,1.5625
+bp limit=2 AND dm=0,class=ckd,0.11,1.0,1.5625
+bp limit=2 AND pc=1,class=ckd,0.11,1.0,1.5625
+bp limit=2 AND sod=133 - 138,class=ckd,0.11,1.0,1.5625
+bp limit=2 AND wbcc=7360 - 9740,class=ckd,0.11,1.0,1.5625
+cad=1 AND pot=< 7.31,class=ckd,0.11,1.0,1.5625
+dm=0 AND htn=1,class=ckd,0.11,1.0,1.5625
+dm=0 AND sg=1.009 - 1.011,class=ckd,0.11,1.0,1.5625
+dm=1 AND pcv=37.4 - 41.3,class=ckd,0.11,1.0,1.5625
+dm=1 AND pe=1,class=ckd,0.11,1.0,1.5625
+hemo=10 - 11.3 AND pe=0,class=ckd,0.11,1.0,1.5625
+hemo=10 - 11.3 AND sc=< 3.65,class=ckd,0.11,1.0,1.5625
+htn=0 AND sg=1.009 - 1.011,class=ckd,0.11,1.0,1.5625
+htn=1 AND pcv=37.4 - 41.3,class=ckd,0.11,1.0,1.5625
+pc=1 AND sod=133 - 138,class=ckd,0.11,1.0,1.5625
+pcv=29.6 - 33.5 AND pot=< 7.31,class=ckd,0.11,1.0,1.5625
+sg=1.009 - 1.011 AND wbcc=7360 - 9740,class=ckd,0.11,1.0,1.5625
+al=1 - 1,class=ckd,0.105,1.0,1.5625
+rbcc=3.28 - 3.87,class=ckd,0.105,1.0,1.5625
+al=1 - 1 AND ba=0,class=ckd,0.105,1.0,1.5625
+al=3 - 3 AND ba=0,class=ckd,0.105,1.0,1.5625
+ane=0 AND pe=1,class=ckd,0.105,1.0,1.5625
+ane=1 AND pcc=0,class=ckd,0.105,1.0,1.5625
+ba=0 AND hemo=8.7 - 10,class=ckd,0.105,1.0,1.5625
+ba=0 AND rbc=1,class=ckd,0.105,1.0,1.5625
+bp (Diastolic)=1 AND sg=1.009 - 1.011,class=ckd,0.105,1.0,1.5625
+cad=0 AND hemo=10 - 11.3,class=ckd,0.105,1.0,1.5625
+cad=0 AND pcv=33.5 - 37.4,class=ckd,0.105,1.0,1.5625
+hemo=10 - 11.3 AND su=< 0,class=ckd,0.105,1.0,1.5625
+pc=0 AND sg=1.015 - 1.017,class=ckd,0.105,1.0,1.5625
+pc=1 AND pcc=1,class=ckd,0.105,1.0,1.5625
+pcc=0 AND rbc=1,class=ckd,0.105,1.0,1.5625
+pot=< 7.31 AND rbcc=3.28 - 3.87,class=ckd,0.105,1.0,1.5625
+pot=< 7.31 AND sc=3.65 - 6.8,class=ckd,0.105,1.0,1.5625
+sg=1.015 - 1.017 AND sod=133 - 138,class=ckd,0.105,1.0,1.5625
+al=1 - 1 AND pot=< 7.31,class=ckd,0.1,1.0,1.5625
+al=2 - 2 AND pe=0,class=ckd,0.1,1.0,1.5625
+ane=0 AND pcv=33.5 - 37.4,class=ckd,0.1,1.0,1.5625
+appet=1 AND pe=0,class=ckd,0.1,1.0,1.5625
+appet=1 AND pe=1,class=ckd,0.1,1.0,1.5625
+appet=1 AND sod=133 - 138,class=ckd,0.1,1.0,1.5625
+appet=1 AND wbcc=7360 - 9740,class=ckd,0.1,1.0,1.5625
+ba=0 AND sc=3.65 - 6.8,class=ckd,0.1,1.0,1.5625
+bp (Diastolic)=1 AND rbc=1,class=ckd,0.1,1.0,1.5625
+bu=48.1 - 86.2 AND sg=1.009 - 1.011,class=ckd,0.1,1.0,1.5625
+bu=< 48.1 AND htn=1,class=ckd,0.1,1.0,1.5625
+cad=0 AND pcc=1,class=ckd,0.1,1.0,1.5625
+cad=0 AND rbc=1,class=ckd,0.1,1.0,1.5625
+dm=0 AND pc=1,class=ckd,0.1,1.0,1.5625
+dm=1 AND hemo=11.3 - 12.6,class=ckd,0.1,1.0,1.5625
+hemo=10 - 11.3 AND htn=1,class=ckd,0.1,1.0,1.5625
+hemo=8.7 - 10 AND su=< 0,class=ckd,0.1,1.0,1.5625
+pc=0 AND pcv=33.5 - 37.4,class=ckd,0.1,1.0,1.5625
+pcc=0 AND pcv=33.5 - 37.4,class=ckd,0.1,1.0,1.5625
+pcc=1 AND pe=0,class=ckd,0.1,1.0,1.5625
+pcv=33.5 - 37.4 AND rbc=0,class=ckd,0.1,1.0,1.5625
+age=66 - 74 AND htn=1,class=ckd,0.095,1.0,1.5625
+al=1 - 1 AND pcc=0,class=ckd,0.095,1.0,1.5625
+al=2 - 2 AND pc=1,class=ckd,0.095,1.0,1.5625
+al=2 - 2 AND su=< 0,class=ckd,0.095,1.0,1.5625
+ane=0 AND pcv=29.6 - 33.5,class=ckd,0.095,1.0,1.5625
+ane=1 AND bp limit=2,class=ckd,0.095,1.0,1.5625
+ane=1 AND dm=1,class=ckd,0.095,1.0,1.5625
+ane=1 AND pc=1,class=ckd,0.095,1.0,1.5625
+ba=0 AND cad=1,class=ckd,0.095,1.0,1.5625
+ba=0 AND pcv=29.6 - 33.5,class=ckd,0.095,1.0,1.5625
+cad=1 AND htn=1,class=ckd,0.095,1.0,1.5625
+dm=1 AND sg=1.015 - 1.017,class=ckd,0.095,1.0,1.5625
+hemo=11.3 - 12.6 AND htn=1,class=ckd,0.095,1.0,1.5625
+htn=1 AND sc=3.65 - 6.8,class=ckd,0.095,1.0,1.5625
+pc=1 AND pe=1,class=ckd,0.095,1.0,1.5625
+pcc=1 AND su=< 0,class=ckd,0.095,1.0,1.5625
+pcv=33.5 - 37.4 AND sc=< 3.65,class=ckd,0.095,1.0,1.5625
+pcv=33.5 - 37.4 AND su=< 0,class=ckd,0.095,1.0,1.5625
+rbc=1 AND su=< 0,class=ckd,0.095,1.0,1.5625
+pcv=25.7 - 29.6,class=ckd,0.09,1.0,1.5625
+age=66 - 74 AND dm=1,class=ckd,0.09,1.0,1.5625
+al=1 - 1 AND ane=0,class=ckd,0.09,1.0,1.5625
+al=2 - 2 AND bp (Diastolic)=1,class=ckd,0.09,1.0,1.5625
+al=3 - 3 AND ane=0,class=ckd,0.09,1.0,1.5625
+ane=1 AND appet=0,class=ckd,0.09,1.0,1.5625
+ane=1 AND pe=0,class=ckd,0.09,1.0,1.5625
+appet=0 AND hemo=10 - 11.3,class=ckd,0.09,1.0,1.5625
+appet=1 AND bp limit=2,class=ckd,0.09,1.0,1.5625
+appet=1 AND pc=0,class=ckd,0.09,1.0,1.5625
+appet=1 AND rbcc=4.46 - 5.05,class=ckd,0.09,1.0,1.5625
+ba=0 AND rbcc=3.28 - 3.87,class=ckd,0.09,1.0,1.5625
+bp (Diastolic)=1 AND pe=1,class=ckd,0.09,1.0,1.5625
+cad=0 AND hemo=8.7 - 10,class=ckd,0.09,1.0,1.5625
+hemo=8.7 - 10 AND rbc=0,class=ckd,0.09,1.0,1.5625
+htn=1 AND pcc=1,class=ckd,0.09,1.0,1.5625
+htn=1 AND rbc=1,class=ckd,0.09,1.0,1.5625
+htn=1 AND rbcc=3.28 - 3.87,class=ckd,0.09,1.0,1.5625
+pc=1 AND rbcc=4.46 - 5.05,class=ckd,0.09,1.0,1.5625
+pc=1 AND wbcc=7360 - 9740,class=ckd,0.09,1.0,1.5625
+pcc=0 AND sc=3.65 - 6.8,class=ckd,0.09,1.0,1.5625
+pcc=1 AND sc=< 3.65,class=ckd,0.09,1.0,1.5625
+pcv=25.7 - 29.6 AND pot=< 7.31,class=ckd,0.09,1.0,1.5625
+pcv=29.6 - 33.5 AND rbc=0,class=ckd,0.09,1.0,1.5625
+pcv=29.6 - 33.5 AND su=< 0,class=ckd,0.09,1.0,1.5625
+pcv=33.5 - 37.4 AND pe=0,class=ckd,0.09,1.0,1.5625
+sc=3.65 - 6.8 AND su=< 0,class=ckd,0.09,1.0,1.5625
+al=1 - 1 AND cad=0,class=ckd,0.085,1.0,1.5625
+al=1 - 1 AND sc=< 3.65,class=ckd,0.085,1.0,1.5625
+al=2 - 2 AND ane=0,class=ckd,0.085,1.0,1.5625
+al=2 - 2 AND rbc=0,class=ckd,0.085,1.0,1.5625
+al=3 - 3 AND cad=0,class=ckd,0.085,1.0,1.5625
+al=3 - 3 AND htn=1,class=ckd,0.085,1.0,1.5625
+al=3 - 3 AND su=< 0,class=ckd,0.085,1.0,1.5625
+bgr=< 112 AND htn=1,class=ckd,0.085,1.0,1.5625
+bp (Diastolic)=0 AND pc=1,class=ckd,0.085,1.0,1.5625
+bp (Diastolic)=0 AND pe=1,class=ckd,0.085,1.0,1.5625
+bp limit=0 AND pc=1,class=ckd,0.085,1.0,1.5625
+bp limit=0 AND pe=1,class=ckd,0.085,1.0,1.5625
+bp limit=2 AND htn=0,class=ckd,0.085,1.0,1.5625
+bp limit=2 AND sg=1.015 - 1.017,class=ckd,0.085,1.0,1.5625
+bu=48.1 - 86.2 AND pc=1,class=ckd,0.085,1.0,1.5625
+cad=1 AND rbc=0,class=ckd,0.085,1.0,1.5625
+dm=0 AND sg=1.015 - 1.017,class=ckd,0.085,1.0,1.5625
+hemo=10 - 11.3 AND pcv=29.6 - 33.5,class=ckd,0.085,1.0,1.5625
+hemo=8.7 - 10 AND htn=1,class=ckd,0.085,1.0,1.5625
+hemo=8.7 - 10 AND pcc=0,class=ckd,0.085,1.0,1.5625
+pc=1 AND sg=1.009 - 1.011,class=ckd,0.085,1.0,1.5625
+pcv=29.6 - 33.5 AND pe=0,class=ckd,0.085,1.0,1.5625
+rbcc=3.28 - 3.87 AND su=< 0,class=ckd,0.085,1.0,1.5625
+bu=86.2 - 124.3,class=ckd,0.08,1.0,1.5625
+age=59 - 66 AND sg=1.009 - 1.011,class=ckd,0.08,1.0,1.5625
+al=1 - 1 AND rbc=0,class=ckd,0.08,1.0,1.5625
+al=2 - 2 AND appet=0,class=ckd,0.08,1.0,1.5625
+al=2 - 2 AND htn=1,class=ckd,0.08,1.0,1.5625
+al=2 - 2 AND sc=< 3.65,class=ckd,0.08,1.0,1.5625
+al=2 - 2 AND sod=133 - 138,class=ckd,0.08,1.0,1.5625
+al=3 - 3 AND rbc=0,class=ckd,0.08,1.0,1.5625
+ane=0 AND cad=1,class=ckd,0.08,1.0,1.5625
+ane=0 AND pcc=1,class=ckd,0.08,1.0,1.5625
+ane=0 AND rbc=1,class=ckd,0.08,1.0,1.5625
+ane=1 AND sod=133 - 138,class=ckd,0.08,1.0,1.5625
+appet=0 AND pcc=1,class=ckd,0.08,1.0,1.5625
+appet=0 AND pcv=29.6 - 33.5,class=ckd,0.08,1.0,1.5625
+appet=0 AND pcv=33.5 - 37.4,class=ckd,0.08,1.0,1.5625
+appet=1 AND dm=0,class=ckd,0.08,1.0,1.5625
+ba=0 AND pcv=25.7 - 29.6,class=ckd,0.08,1.0,1.5625
+bgr=112 - 154 AND dm=1,class=ckd,0.08,1.0,1.5625
+bp limit=2 AND bu=< 48.1,class=ckd,0.08,1.0,1.5625
+bp limit=2 AND rbc=1,class=ckd,0.08,1.0,1.5625
+bu=86.2 - 124.3 AND pot=< 7.31,class=ckd,0.08,1.0,1.5625
+cad=0 AND pcv=29.6 - 33.5,class=ckd,0.08,1.0,1.5625
+cad=0 AND rbcc=3.28 - 3.87,class=ckd,0.08,1.0,1.5625
+cad=0 AND sc=3.65 - 6.8,class=ckd,0.08,1.0,1.5625
+cad=1 AND dm=1,class=ckd,0.08,1.0,1.5625
+dm=1 AND hemo=10 - 11.3,class=ckd,0.08,1.0,1.5625
+dm=1 AND hemo=8.7 - 10,class=ckd,0.08,1.0,1.5625
+dm=1 AND pcc=1,class=ckd,0.08,1.0,1.5625
+hemo=10 - 11.3 AND sod=133 - 138,class=ckd,0.08,1.0,1.5625
+hemo=11.3 - 12.6 AND sg=1.009 - 1.011,class=ckd,0.08,1.0,1.5625
+htn=1 AND sod=138 - 143,class=ckd,0.08,1.0,1.5625
+htn=1 AND wbcc=4980 - 7360,class=ckd,0.08,1.0,1.5625
+pc=0 AND pe=1,class=ckd,0.08,1.0,1.5625
+pc=1 AND rbc=1,class=ckd,0.08,1.0,1.5625
+pcv=29.6 - 33.5 AND sc=< 3.65,class=ckd,0.08,1.0,1.5625
+pe=1 AND sc=< 3.65,class=ckd,0.08,1.0,1.5625
+pe=1 AND sod=133 - 138,class=ckd,0.08,1.0,1.5625
+rbc=0 AND rbcc=3.28 - 3.87,class=ckd,0.08,1.0,1.5625
+rbc=0 AND sc=3.65 - 6.8,class=ckd,0.08,1.0,1.5625
+hemo=11.3 - 12.6 AND sod=133 - 138,class=ckd,0.125,0.9615384615384615,1.502403846153846
+bp limit=0 AND hemo=11.3 - 12.6,class=ckd,0.12,0.96,1.5
+bp (Diastolic)=0 AND hemo=11.3 - 12.6,class=ckd,0.11,0.9565217391304347,1.4945652173913042
+rbcc=3.87 - 4.46,class=ckd,0.1,0.9523809523809524,1.4880952380952381
+pot=< 7.31 AND rbcc=3.87 - 4.46,class=ckd,0.1,0.9523809523809524,1.4880952380952381
+ba=0 AND rbcc=3.87 - 4.46,class=ckd,0.09,0.9473684210526315,1.4802631578947367
+rbc=0 AND rbcc=3.87 - 4.46,class=ckd,0.085,0.9444444444444445,1.4756944444444446
+hemo=11.3 - 12.6 AND rbcc=4.46 - 5.05,class=ckd,0.165,0.942857142857143,1.4732142857142858
+age=59 - 66 AND bu=48.1 - 86.2,class=ckd,0.08,0.9411764705882353,1.4705882352941175
+age=66 - 74 AND bp (Diastolic)=1,class=ckd,0.08,0.9411764705882353,1.4705882352941175
+ane=0 AND rbcc=3.87 - 4.46,class=ckd,0.08,0.9411764705882353,1.4705882352941175
+pe=0 AND rbcc=3.87 - 4.46,class=ckd,0.08,0.9411764705882353,1.4705882352941175
+hemo=11.3 - 12.6 AND pcv=37.4 - 41.3,class=ckd,0.14,0.9333333333333335,1.4583333333333335
+pcv=37.4 - 41.3 AND rbcc=4.46 - 5.05,class=ckd,0.19,0.926829268292683,1.4481707317073171
+age=59 - 66 AND sod=133 - 138,class=ckd,0.125,0.9259259259259258,1.446759259259259
+bp (Diastolic)=1 AND bu=48.1 - 86.2,class=ckd,0.125,0.9259259259259258,1.446759259259259
+hemo=11.3 - 12.6,class=ckd,0.225,0.9183673469387755,1.4349489795918366
+hemo=11.3 - 12.6 AND pot=< 7.31,class=ckd,0.22,0.9166666666666667,1.4322916666666667
+cad=0 AND hemo=11.3 - 12.6,class=ckd,0.215,0.9148936170212766,1.4295212765957446
+ane=0 AND hemo=11.3 - 12.6,class=ckd,0.21,0.9130434782608695,1.4266304347826086
+ba=0 AND hemo=11.3 - 12.6,class=ckd,0.21,0.9130434782608695,1.4266304347826086
+hemo=11.3 - 12.6 AND pcc=0,class=ckd,0.205,0.911111111111111,1.423611111111111
+hemo=11.3 - 12.6 AND rbc=0,class=ckd,0.2,0.9090909090909092,1.4204545454545456
+hemo=11.3 - 12.6 AND wbcc=7360 - 9740,class=ckd,0.14,0.903225806451613,1.4112903225806452
+hemo=11.3 - 12.6 AND pe=0,class=ckd,0.18,0.8999999999999999,1.4062499999999998
+hemo=11.3 - 12.6 AND sc=< 3.65,class=ckd,0.18,0.8999999999999999,1.4062499999999998
+hemo=11.3 - 12.6 AND su=< 0,class=ckd,0.18,0.8999999999999999,1.4062499999999998
+appet=0 AND hemo=11.3 - 12.6,class=ckd,0.17,0.8947368421052632,1.3980263157894737
+hemo=11.3 - 12.6 AND pc=0,class=ckd,0.17,0.8947368421052632,1.3980263157894737
+age=66 - 74 AND wbcc=7360 - 9740,class=ckd,0.085,0.8947368421052632,1.3980263157894737
+bu=48.1 - 86.2 AND pcv=37.4 - 41.3,class=ckd,0.085,0.8947368421052632,1.3980263157894737
+bu=48.1 - 86.2 AND rbcc=4.46 - 5.05,class=ckd,0.125,0.8928571428571428,1.3950892857142856
+pcv=37.4 - 41.3 AND sod=133 - 138,class=ckd,0.125,0.8928571428571428,1.3950892857142856
+bu=48.1 - 86.2 AND wbcc=7360 - 9740,class=ckd,0.12,0.8888888888888888,1.3888888888888888
+bp (Diastolic)=1 AND hemo=11.3 - 12.6,class=ckd,0.115,0.8846153846153846,1.3822115384615383
+rbcc=4.46 - 5.05 AND sod=133 - 138,class=ckd,0.21,0.875,1.3671875
+bp (Diastolic)=1 AND pcv=37.4 - 41.3,class=ckd,0.13,0.8666666666666667,1.3541666666666667
+hemo=11.3 - 12.6 AND htn=0,class=ckd,0.13,0.8666666666666667,1.3541666666666667
+dm=0 AND hemo=11.3 - 12.6,class=ckd,0.125,0.8620689655172414,1.3469827586206897
+rbcc=4.46 - 5.05 AND wbcc=7360 - 9740,class=ckd,0.28,0.8615384615384616,1.3461538461538463
+bu=48.1 - 86.2 AND sod=133 - 138,class=ckd,0.155,0.8611111111111112,1.3454861111111112
+sod=133 - 138 AND wbcc=7360 - 9740,class=ckd,0.185,0.8604651162790697,1.3444767441860463
+age=59 - 66 AND wbcc=7360 - 9740,class=ckd,0.09,0.8571428571428571,1.3392857142857142
+bu=< 48.1 AND hemo=11.3 - 12.6,class=ckd,0.11,0.8461538461538461,1.3221153846153846
+al=< 0 AND hemo=11.3 - 12.6,class=ckd,0.1,0.8333333333333334,1.3020833333333333
+bu=48.1 - 86.2,class=ckd,0.22,0.830188679245283,1.2971698113207546
+bu=48.1 - 86.2 AND pot=< 7.31,class=ckd,0.22,0.830188679245283,1.2971698113207546
+pcv=37.4 - 41.3 AND wbcc=7360 - 9740,class=ckd,0.18,0.8181818181818181,1.2784090909090908
+age=59 - 66 AND bp (Diastolic)=1,class=ckd,0.09,0.8181818181818181,1.2784090909090908
+ba=0 AND bu=48.1 - 86.2,class=ckd,0.195,0.8125000000000001,1.2695312500000002
+ane=0 AND bu=48.1 - 86.2,class=ckd,0.19,0.8085106382978724,1.2632978723404256
+bu=48.1 - 86.2 AND sc=< 3.65,class=ckd,0.185,0.8043478260869564,1.2567934782608694
+bp (Diastolic)=1 AND wbcc=7360 - 9740,class=ckd,0.205,0.8039215686274509,1.256127450980392
+bu=48.1 - 86.2 AND cad=0,class=ckd,0.18,0.7999999999999999,1.2499999999999998
+bu=48.1 - 86.2 AND pe=0,class=ckd,0.18,0.7999999999999999,1.2499999999999998
+bu=48.1 - 86.2 AND rbc=0,class=ckd,0.175,0.7954545454545454,1.2428977272727273
+age=66 - 74,class=ckd,0.135,0.7941176470588235,1.2408088235294117
+age=59 - 66,class=ckd,0.19,0.7916666666666667,1.2369791666666667
+age=59 - 66 AND rbcc=4.46 - 5.05,class=ckd,0.095,0.7916666666666667,1.2369791666666667
+bu=48.1 - 86.2 AND su=< 0,class=ckd,0.17,0.7906976744186047,1.23546511627907
+age=66 - 74 AND pot=< 7.31,class=ckd,0.13,0.7878787878787878,1.231060606060606
+age=59 - 66 AND pot=< 7.31,class=ckd,0.185,0.7872340425531915,1.2300531914893618
+appet=0 AND bu=48.1 - 86.2,class=ckd,0.165,0.7857142857142858,1.2276785714285716
+age=59 - 66 AND ba=0,class=ckd,0.18,0.7826086956521738,1.2228260869565215
+bu=48.1 - 86.2 AND pcc=0,class=ckd,0.16,0.7804878048780488,1.2195121951219512
+bp (Diastolic)=1 AND sod=133 - 138,class=ckd,0.19,0.7755102040816326,1.211734693877551
+age=66 - 74 AND ane=0,class=ckd,0.12,0.7741935483870968,1.2096774193548387
+age=66 - 74 AND rbc=0,class=ckd,0.12,0.7741935483870968,1.2096774193548387
+age=59 - 66 AND bp (Diastolic)=0,class=ckd,0.1,0.7692307692307693,1.2019230769230769
+age=59 - 66 AND bp limit=0,class=ckd,0.1,0.7692307692307693,1.2019230769230769
+pcv=37.4 - 41.3,class=ckd,0.215,0.7678571428571428,1.1997767857142856
+age=66 - 74 AND ba=0,class=ckd,0.115,0.7666666666666667,1.1979166666666667
+pcv=37.4 - 41.3 AND pot=< 7.31,class=ckd,0.21,0.7636363636363636,1.1931818181818181
+sod=133 - 138,class=ckd,0.35,0.7608695652173912,1.1888586956521738
+bp (Diastolic)=1 AND rbcc=4.46 - 5.05,class=ckd,0.205,0.7592592592592592,1.1863425925925926
+age=59 - 66 AND ane=0,class=ckd,0.155,0.7560975609756098,1.1814024390243902
+pot=< 7.31 AND sod=133 - 138,class=ckd,0.34,0.7555555555555555,1.1805555555555556
+ba=0 AND pcv=37.4 - 41.3,class=ckd,0.2,0.7547169811320755,1.179245283018868
+ba=0 AND sod=133 - 138,class=ckd,0.335,0.752808988764045,1.1762640449438202
+bu=48.1 - 86.2 AND pc=0,class=ckd,0.135,0.7500000000000001,1.1718750000000002
+rbcc=4.46 - 5.05,class=ckd,0.36,0.75,1.171875
+ane=0 AND pcv=37.4 - 41.3,class=ckd,0.195,0.75,1.171875
+cad=0 AND pcv=37.4 - 41.3,class=ckd,0.195,0.75,1.171875
+pcv=37.4 - 41.3 AND rbc=0,class=ckd,0.195,0.75,1.171875
+bgr=112 - 154 AND bu=48.1 - 86.2,class=ckd,0.09,0.75,1.171875
+age=59 - 66 AND pcc=0,class=ckd,0.15,0.7499999999999999,1.1718749999999998
+age=59 - 66 AND rbc=0,class=ckd,0.15,0.7499999999999999,1.1718749999999998
+pot=< 7.31 AND rbcc=4.46 - 5.05,class=ckd,0.355,0.7473684210526316,1.1677631578947367
+pcc=0 AND pcv=37.4 - 41.3,class=ckd,0.19,0.7450980392156863,1.1642156862745099
+bp (Diastolic)=0 AND sod=133 - 138,class=ckd,0.16,0.7441860465116279,1.1627906976744187
+bp limit=0 AND rbcc=4.46 - 5.05,class=ckd,0.16,0.7441860465116279,1.1627906976744187
+age=59 - 66 AND appet=0,class=ckd,0.145,0.7435897435897435,1.1618589743589742
+age=59 - 66 AND sc=< 3.65,class=ckd,0.145,0.7435897435897435,1.1618589743589742
+bp limit=0 AND bu=48.1 - 86.2,class=ckd,0.1,0.7407407407407407,1.1574074074074072
+bp limit=0 AND sod=133 - 138,class=ckd,0.17,0.7391304347826088,1.1548913043478262
+rbc=0 AND sod=133 - 138,class=ckd,0.31,0.7380952380952381,1.1532738095238095
+bgr=112 - 154 AND sod=133 - 138,class=ckd,0.155,0.7380952380952381,1.1532738095238095
+bp (Diastolic)=0 AND rbcc=4.46 - 5.05,class=ckd,0.155,0.7380952380952381,1.1532738095238095
+age=59 - 66 AND cad=0,class=ckd,0.14,0.736842105263158,1.1513157894736843
+age=59 - 66 AND pe=0,class=ckd,0.14,0.736842105263158,1.1513157894736843
+ba=0 AND rbcc=4.46 - 5.05,class=ckd,0.335,0.7362637362637363,1.150412087912088
+age=66 - 74 AND cad=0,class=ckd,0.095,0.7307692307692307,1.141826923076923
+age=66 - 74 AND pcc=0,class=ckd,0.095,0.7307692307692307,1.141826923076923
+age=66 - 74 AND pe=0,class=ckd,0.095,0.7307692307692307,1.141826923076923
+age=66 - 74 AND su=< 0,class=ckd,0.095,0.7307692307692307,1.141826923076923
+bp (Diastolic)=0 AND bu=48.1 - 86.2,class=ckd,0.095,0.7307692307692307,1.141826923076923
+pcv=37.4 - 41.3 AND pe=0,class=ckd,0.175,0.7291666666666666,1.1393229166666665
+cad=0 AND rbcc=4.46 - 5.05,class=ckd,0.32,0.7272727272727273,1.1363636363636365
+age=51 - 59 AND bp (Diastolic)=1,class=ckd,0.08,0.7272727272727273,1.1363636363636365
+cad=0 AND sod=133 - 138,class=ckd,0.29,0.7249999999999999,1.1328124999999998
+age=59 - 66 AND pc=0,class=ckd,0.13,0.7222222222222223,1.1284722222222223
+age=66 - 74 AND appet=0,class=ckd,0.09,0.72,1.125
+age=66 - 74 AND pc=0,class=ckd,0.09,0.72,1.125
+sod=133 - 138 AND su=< 0,class=ckd,0.28,0.717948717948718,1.1217948717948718
+pcc=0 AND rbcc=4.46 - 5.05,class=ckd,0.305,0.7176470588235294,1.1213235294117647
+pcv=37.4 - 41.3 AND sc=< 3.65,class=ckd,0.165,0.717391304347826,1.1209239130434783
+rbc=0 AND rbcc=4.46 - 5.05,class=ckd,0.3,0.7142857142857143,1.1160714285714286
+pcc=0 AND sod=133 - 138,class=ckd,0.275,0.7142857142857143,1.1160714285714286
+age=59 - 66 AND su=< 0,class=ckd,0.125,0.7142857142857143,1.1160714285714286
+pc=0 AND pcv=37.4 - 41.3,class=ckd,0.16,0.7111111111111111,1.1111111111111112
+ane=0 AND sod=133 - 138,class=ckd,0.27,0.7105263157894737,1.1101973684210527
+pe=0 AND sod=133 - 138,class=ckd,0.27,0.7105263157894737,1.1101973684210527
+age=66 - 74 AND sc=< 3.65,class=ckd,0.085,0.7083333333333334,1.1067708333333333
+ane=0 AND rbcc=4.46 - 5.05,class=ckd,0.29,0.7073170731707317,1.105182926829268
+sc=< 3.65 AND sod=133 - 138,class=ckd,0.265,0.7066666666666667,1.1041666666666667
+pe=0 AND rbcc=4.46 - 5.05,class=ckd,0.285,0.7037037037037036,1.0995370370370368
+rbcc=4.46 - 5.05 AND su=< 0,class=ckd,0.28,0.7000000000000001,1.09375

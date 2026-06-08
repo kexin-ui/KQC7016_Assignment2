@@ -1,0 +1,4 @@
+risk_band,patients,observed_ckd_rate,mean_predicted_probability
+Low,18,0.0,0.06027777777777778
+Moderate,2,1.0,0.6125
+High,30,1.0,0.9640000000000001

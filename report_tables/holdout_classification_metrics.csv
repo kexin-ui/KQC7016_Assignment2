@@ -1,0 +1,2 @@
+model,selected_threshold,accuracy,balanced_accuracy,precision,recall,f1,roc_auc
+Random forest,0.605,1.0,1.0,1.0,1.0,1.0,1.0
